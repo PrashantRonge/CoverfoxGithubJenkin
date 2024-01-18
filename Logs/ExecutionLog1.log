@@ -1,0 +1,84 @@
+2024-01-11 14:57:51,531 [main] FATAL COVERFOXINSURANCE - null
+2024-01-11 14:57:51,537 [main] INFO COVERFOXINSURANCE - Launching coverfox
+2024-01-11 14:58:04,563 [main] INFO COVERFOXINSURANCE - click on started Button
+2024-01-11 14:58:07,077 [main] INFO COVERFOXINSURANCE - ckick in next button
+2024-01-11 14:58:08,154 [main] INFO COVERFOXINSURANCE - handling age dropdown
+2024-01-11 14:58:10,891 [main] INFO COVERFOXINSURANCE - click on next buttton
+2024-01-11 14:58:11,966 [main] INFO COVERFOXINSURANCE - Entering pincode
+2024-01-11 14:58:13,184 [main] INFO COVERFOXINSURANCE - Entering mobile number
+2024-01-11 14:58:14,433 [main] INFO COVERFOXINSURANCE - click on ncontinue button
+2024-01-11 15:06:44,147 [main] INFO COVERFOXINSURANCE - Launching coverfox
+2024-01-11 15:06:51,740 [main] INFO COVERFOXINSURANCE - click on started Button
+2024-01-11 15:06:53,289 [main] INFO COVERFOXINSURANCE - ckick in next button
+2024-01-11 15:06:54,372 [main] INFO COVERFOXINSURANCE - handling age dropdown
+2024-01-11 15:06:57,042 [main] INFO COVERFOXINSURANCE - click on next buttton
+2024-01-11 15:06:58,174 [main] WARN COVERFOXINSURANCE - Entering pincode
+2024-01-11 15:06:59,463 [main] INFO COVERFOXINSURANCE - Entering mobile number
+2024-01-11 15:07:00,689 [main] INFO COVERFOXINSURANCE - click on ncontinue button
+2024-01-11 15:07:06,805 [main] ERROR COVERFOXINSURANCE - Fetching No of Details from Text
+2024-01-11 15:07:06,872 [main] WARN COVERFOXINSURANCE - Fetching No of Details from Banner
+2024-01-11 15:07:06,903 [main] FATAL COVERFOXINSURANCE - Tc is Passed
+2024-01-11 17:27:45,420 [main] INFO COVERFOXINSURANCE - Launching coverfox
+2024-01-11 17:28:02,161 [main] INFO COVERFOXINSURANCE - click on started Button
+2024-01-11 17:28:04,852 [main] INFO COVERFOXINSURANCE - ckick in next button
+2024-01-11 17:28:05,925 [main] INFO COVERFOXINSURANCE - handling age dropdown
+2024-01-11 17:28:08,483 [main] INFO COVERFOXINSURANCE - click on next buttton
+2024-01-11 17:28:09,571 [main] WARN COVERFOXINSURANCE - Entering pincode
+2024-01-11 17:29:09,596 [main] INFO COVERFOXINSURANCE - Launching coverfox
+2024-01-11 17:29:17,360 [main] INFO COVERFOXINSURANCE - click on started Button
+2024-01-11 17:29:18,923 [main] INFO COVERFOXINSURANCE - ckick in next button
+2024-01-11 17:29:19,986 [main] INFO COVERFOXINSURANCE - handling age dropdown
+2024-01-11 17:29:21,922 [main] INFO COVERFOXINSURANCE - click on next buttton
+2024-01-11 17:29:22,975 [main] WARN COVERFOXINSURANCE - Entering pincode
+2024-01-11 17:29:24,134 [main] INFO COVERFOXINSURANCE - Entering mobile number
+2024-01-11 17:29:25,313 [main] INFO COVERFOXINSURANCE - click on ncontinue button
+2024-01-11 17:29:31,405 [main] ERROR COVERFOXINSURANCE - Fetching No of Details from Text
+2024-01-11 17:29:31,437 [main] WARN COVERFOXINSURANCE - Fetching No of Details from Banner
+2024-01-11 17:29:31,459 [main] FATAL COVERFOXINSURANCE - Tc is Passed
+2024-01-11 17:31:17,018 [main] INFO COVERFOXINSURANCE - Launching coverfox
+2024-01-11 17:31:22,728 [main] INFO COVERFOXINSURANCE - click on started Button
+2024-01-11 17:31:24,148 [main] INFO COVERFOXINSURANCE - ckick in next button
+2024-01-11 17:31:25,215 [main] INFO COVERFOXINSURANCE - handling age dropdown
+2024-01-11 17:31:27,353 [main] INFO COVERFOXINSURANCE - click on next buttton
+2024-01-11 17:31:28,453 [main] WARN COVERFOXINSURANCE - Entering pincode
+2024-01-11 17:31:29,614 [main] INFO COVERFOXINSURANCE - Entering mobile number
+2024-01-11 17:31:30,777 [main] INFO COVERFOXINSURANCE - click on ncontinue button
+2024-01-11 17:31:36,901 [main] ERROR COVERFOXINSURANCE - Fetching No of Details from Text
+2024-01-11 17:31:36,968 [main] WARN COVERFOXINSURANCE - Fetching No of Details from Banner
+2024-01-11 17:31:36,988 [main] FATAL COVERFOXINSURANCE - Tc is Passed
+2024-01-11 17:39:13,567 [main] FATAL COVERFOXINSURANCE - null
+2024-01-11 17:39:13,571 [main] INFO COVERFOXINSURANCE - Launching coverfox
+2024-01-11 17:39:20,391 [main] INFO COVERFOXINSURANCE - click on started Button
+2024-01-11 17:39:21,831 [main] INFO COVERFOXINSURANCE - ckick in next button
+2024-01-11 17:39:22,900 [main] INFO COVERFOXINSURANCE - handling age dropdown
+2024-01-11 17:39:24,880 [main] INFO COVERFOXINSURANCE - click on next buttton
+2024-01-11 17:39:25,949 [main] WARN COVERFOXINSURANCE - Entering pincode
+2024-01-11 17:39:27,217 [main] INFO COVERFOXINSURANCE - Entering mobile number
+2024-01-11 17:39:28,401 [main] INFO COVERFOXINSURANCE - click on ncontinue button
+2024-01-11 17:39:34,485 [main] ERROR COVERFOXINSURANCE - Fetching No of Details from Text
+2024-01-11 17:39:34,517 [main] WARN COVERFOXINSURANCE - Fetching No of Details from Banner
+2024-01-11 17:39:34,535 [main] FATAL COVERFOXINSURANCE - Tc is Passed
+2024-01-16 20:33:31,133 [main] FATAL COVERFOXINSURANCE - null
+2024-01-16 20:33:31,139 [main] INFO COVERFOXINSURANCE - Launching coverfox
+2024-01-16 20:33:44,399 [main] INFO COVERFOXINSURANCE - click on started Button
+2024-01-16 20:33:46,065 [main] INFO COVERFOXINSURANCE - ckick in next button
+2024-01-16 20:33:47,258 [main] INFO COVERFOXINSURANCE - handling age dropdown
+2024-01-16 20:33:50,085 [main] INFO COVERFOXINSURANCE - click on next buttton
+2024-01-16 20:33:51,146 [main] WARN COVERFOXINSURANCE - Entering pincode
+2024-01-16 20:33:52,391 [main] INFO COVERFOXINSURANCE - Entering mobile number
+2024-01-16 20:33:53,642 [main] INFO COVERFOXINSURANCE - click on ncontinue button
+2024-01-16 20:33:59,925 [main] ERROR COVERFOXINSURANCE - Fetching No of Details from Text
+2024-01-16 20:34:00,040 [main] WARN COVERFOXINSURANCE - Fetching No of Details from Banner
+2024-01-16 20:34:00,088 [main] FATAL COVERFOXINSURANCE - Tc is Passed
+2024-01-16 20:49:27,459 [main] FATAL COVERFOXINSURANCE - null
+2024-01-16 20:49:27,467 [main] INFO COVERFOXINSURANCE - Launching coverfox
+2024-01-16 20:49:34,402 [main] INFO COVERFOXINSURANCE - click on started Button
+2024-01-16 20:49:36,199 [main] INFO COVERFOXINSURANCE - ckick in next button
+2024-01-16 20:49:37,365 [main] INFO COVERFOXINSURANCE - handling age dropdown
+2024-01-16 20:49:39,952 [main] INFO COVERFOXINSURANCE - click on next buttton
+2024-01-16 20:49:41,118 [main] WARN COVERFOXINSURANCE - Entering pincode
+2024-01-16 20:49:42,381 [main] INFO COVERFOXINSURANCE - Entering mobile number
+2024-01-16 20:49:43,671 [main] INFO COVERFOXINSURANCE - click on ncontinue button
+2024-01-16 20:49:49,880 [main] ERROR COVERFOXINSURANCE - Fetching No of Details from Text
+2024-01-16 20:49:49,974 [main] WARN COVERFOXINSURANCE - Fetching No of Details from Banner
+2024-01-16 20:49:50,036 [main] FATAL COVERFOXINSURANCE - Tc is Passed

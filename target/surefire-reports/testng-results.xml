@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching CoverFox]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Gender Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next Button]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel]]>
+    </line>
+    <line>
+      <![CDATA[Handling AgeDropDown ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next Button]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel]]>
+    </line>
+    <line>
+      <![CDATA[Entering PinCode ]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel]]>
+    </line>
+    <line>
+      <![CDATA[Entering MObile NO ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Continue Button]]>
+    </line>
+    <line>
+      <![CDATA[Fetching No of Details from Text]]>
+    </line>
+    <line>
+      <![CDATA[Fetching No of Details from Banner]]>
+    </line>
+    <line>
+      <![CDATA[Tc is Passed]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Launching CoverFox]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Gender Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next Button]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel]]>
+    </line>
+    <line>
+      <![CDATA[Handling AgeDropDown ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next Button]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel]]>
+    </line>
+    <line>
+      <![CDATA[Entering MObile NO ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Continue Button]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Launching CoverFox]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Gender Button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next Button]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel]]>
+    </line>
+    <line>
+      <![CDATA[Handling AgeDropDown ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on next Button]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel]]>
+    </line>
+    <line>
+      <![CDATA[Entering PinCode ]]>
+    </line>
+    <line>
+      <![CDATA[Reading Data from Excel]]>
+    </line>
+    <line>
+      <![CDATA[Entering MObile NO ]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Continue Button]]>
+    </line>
+    <line>
+      <![CDATA[Validating sortPlanElementPresency]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-16T20:49:27 IST" name="Suite" finished-at="2024-01-16T20:51:07 IST" duration-ms="100094">
+    <groups>
+    </groups>
+    <test started-at="2024-01-16T20:49:27 IST" name="Test" finished-at="2024-01-16T20:51:07 IST" duration-ms="100094">
+      <class name="cOVSERFOX_Test.CF_TC56_Parametric_Validate_search_results_for_SortplanText">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:cOVSERFOX_Test.CF_TC56_Parametric_Validate_search_results_for_SortplanText@35cabb2a]" started-at="2024-01-16T20:50:30 IST" name="launchBrowser" finished-at="2024-01-16T20:50:38 IST" duration-ms="7271" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching CoverFox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterMemberDetails()[pri:0, instance:cOVSERFOX_Test.CF_TC56_Parametric_Validate_search_results_for_SortplanText@35cabb2a]" started-at="2024-01-16T20:50:38 IST" name="enterMemberDetails" finished-at="2024-01-16T20:50:47 IST" duration-ms="8833" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Gender Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next Button]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel]]>
+            </line>
+            <line>
+              <![CDATA[Handling AgeDropDown ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next Button]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel]]>
+            </line>
+            <line>
+              <![CDATA[Entering PinCode ]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel]]>
+            </line>
+            <line>
+              <![CDATA[Entering MObile NO ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Continue Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterMemberDetails -->
+        <test-method signature="validateSortPlansButton()[pri:0, instance:cOVSERFOX_Test.CF_TC56_Parametric_Validate_search_results_for_SortplanText@35cabb2a]" started-at="2024-01-16T20:50:47 IST" name="validateSortPlansButton" finished-at="2024-01-16T20:50:52 IST" duration-ms="5105" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Validating sortPlanElementPresency]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateSortPlansButton -->
+        <test-method is-config="true" signature="closeCoverFox()[pri:0, instance:cOVSERFOX_Test.CF_TC56_Parametric_Validate_search_results_for_SortplanText@35cabb2a]" started-at="2024-01-16T20:50:52 IST" name="closeCoverFox" finished-at="2024-01-16T20:51:07 IST" duration-ms="15285" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeCoverFox -->
+      </class> <!-- cOVSERFOX_Test.CF_TC56_Parametric_Validate_search_results_for_SortplanText -->
+      <class name="cOVSERFOX_Test.CF_TC55_LiSTNERfaIL_Parametric_Validate_search_results_for_healthcare_plocies">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:cOVSERFOX_Test.CF_TC55_LiSTNERfaIL_Parametric_Validate_search_results_for_healthcare_plocies@16293aa2]" started-at="2024-01-16T20:49:27 IST" name="launchBrowser" finished-at="2024-01-16T20:49:34 IST" duration-ms="7009" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching CoverFox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterMemberDetails()[pri:0, instance:cOVSERFOX_Test.CF_TC55_LiSTNERfaIL_Parametric_Validate_search_results_for_healthcare_plocies@16293aa2]" started-at="2024-01-16T20:49:34 IST" name="enterMemberDetails" finished-at="2024-01-16T20:49:44 IST" duration-ms="10466" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Gender Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next Button]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel]]>
+            </line>
+            <line>
+              <![CDATA[Handling AgeDropDown ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next Button]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel]]>
+            </line>
+            <line>
+              <![CDATA[Entering PinCode ]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel]]>
+            </line>
+            <line>
+              <![CDATA[Entering MObile NO ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Continue Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- enterMemberDetails -->
+        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:cOVSERFOX_Test.CF_TC55_LiSTNERfaIL_Parametric_Validate_search_results_for_healthcare_plocies@16293aa2]" started-at="2024-01-16T20:49:44 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-16T20:49:50 IST" duration-ms="5677" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Fetching No of Details from Text]]>
+            </line>
+            <line>
+              <![CDATA[Fetching No of Details from Banner]]>
+            </line>
+            <line>
+              <![CDATA[Tc is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateTestPlansFromTextAndBanners -->
+        <test-method is-config="true" signature="closeCoverFox()[pri:0, instance:cOVSERFOX_Test.CF_TC55_LiSTNERfaIL_Parametric_Validate_search_results_for_healthcare_plocies@16293aa2]" started-at="2024-01-16T20:49:50 IST" name="closeCoverFox" finished-at="2024-01-16T20:49:55 IST" duration-ms="5182" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeCoverFox -->
+      </class> <!-- cOVSERFOX_Test.CF_TC55_LiSTNERfaIL_Parametric_Validate_search_results_for_healthcare_plocies -->
+      <class name="cOVSERFOX_Test.CF_TC57_ValidatingPincodeErrorMassage">
+        <test-method is-config="true" signature="LaunchCoverfox()[pri:0, instance:cOVSERFOX_Test.CF_TC57_ValidatingPincodeErrorMassage@3a93b025]" started-at="2024-01-16T20:49:55 IST" name="LaunchCoverfox" finished-at="2024-01-16T20:50:02 IST" duration-ms="6918" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching CoverFox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LaunchCoverfox -->
+        <test-method is-config="true" signature="EnterMemberDetails()[pri:0, instance:cOVSERFOX_Test.CF_TC57_ValidatingPincodeErrorMassage@3a93b025]" started-at="2024-01-16T20:50:02 IST" name="EnterMemberDetails" finished-at="2024-01-16T20:50:15 IST" duration-ms="12804" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Gender Button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next Button]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel]]>
+            </line>
+            <line>
+              <![CDATA[Handling AgeDropDown ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on next Button]]>
+            </line>
+            <line>
+              <![CDATA[Reading Data from Excel]]>
+            </line>
+            <line>
+              <![CDATA[Entering MObile NO ]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Continue Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EnterMemberDetails -->
+        <test-method signature="ValidateerrorMsg()[pri:0, instance:cOVSERFOX_Test.CF_TC57_ValidatingPincodeErrorMassage@3a93b025]" started-at="2024-01-16T20:50:15 IST" name="ValidateerrorMsg" finished-at="2024-01-16T20:50:15 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateerrorMsg -->
+        <test-method is-config="true" signature="closeCoverFox()[pri:0, instance:cOVSERFOX_Test.CF_TC57_ValidatingPincodeErrorMassage@3a93b025]" started-at="2024-01-16T20:50:15 IST" name="closeCoverFox" finished-at="2024-01-16T20:50:30 IST" duration-ms="15301" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeCoverFox -->
+      </class> <!-- cOVSERFOX_Test.CF_TC57_ValidatingPincodeErrorMassage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

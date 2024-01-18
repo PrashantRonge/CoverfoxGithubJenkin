@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="listners.ListnerCoverFox"></listener>
+		<listener class-name="listners.ExtentReporterNG"/>
+	</listeners>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="cOVSERFOX_Test.CF_TC55_LiSTNERfaIL_Parametric_Validate_search_results_for_healthcare_plocies"/>
+      <class name="cOVSERFOX_Test.CF_TC57_ValidatingPincodeErrorMassage"/>
+      <class name="cOVSERFOX_Test.CF_TC56_Parametric_Validate_search_results_for_SortplanText"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
