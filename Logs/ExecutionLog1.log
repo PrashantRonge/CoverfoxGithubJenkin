@@ -82,3 +82,27 @@
 2024-01-16 20:49:49,880 [main] ERROR COVERFOXINSURANCE - Fetching No of Details from Text
 2024-01-16 20:49:49,974 [main] WARN COVERFOXINSURANCE - Fetching No of Details from Banner
 2024-01-16 20:49:50,036 [main] FATAL COVERFOXINSURANCE - Tc is Passed
+2024-01-18 18:52:37,075 [main] FATAL COVERFOXINSURANCE - null
+2024-01-18 18:52:37,085 [main] INFO COVERFOXINSURANCE - Launching coverfox
+2024-01-18 18:52:44,527 [main] INFO COVERFOXINSURANCE - click on started Button
+2024-01-18 18:52:45,942 [main] INFO COVERFOXINSURANCE - ckick in next button
+2024-01-18 18:52:47,022 [main] INFO COVERFOXINSURANCE - handling age dropdown
+2024-01-18 18:52:48,870 [main] INFO COVERFOXINSURANCE - click on next buttton
+2024-01-18 18:52:49,991 [main] WARN COVERFOXINSURANCE - Entering pincode
+2024-01-18 18:52:51,151 [main] INFO COVERFOXINSURANCE - Entering mobile number
+2024-01-18 18:52:52,324 [main] INFO COVERFOXINSURANCE - click on ncontinue button
+2024-01-18 18:52:58,429 [main] ERROR COVERFOXINSURANCE - Fetching No of Details from Text
+2024-01-18 18:52:58,497 [main] WARN COVERFOXINSURANCE - Fetching No of Details from Banner
+2024-01-18 18:52:58,507 [main] FATAL COVERFOXINSURANCE - Tc is Passed
+2024-01-18 19:05:53,622 [main] FATAL COVERFOXINSURANCE - null
+2024-01-18 19:05:53,626 [main] INFO COVERFOXINSURANCE - Launching coverfox
+2024-01-18 19:05:58,491 [main] INFO COVERFOXINSURANCE - click on started Button
+2024-01-18 19:05:59,918 [main] INFO COVERFOXINSURANCE - ckick in next button
+2024-01-18 19:06:01,046 [main] INFO COVERFOXINSURANCE - handling age dropdown
+2024-01-18 19:06:02,998 [main] INFO COVERFOXINSURANCE - click on next buttton
+2024-01-18 19:06:04,061 [main] WARN COVERFOXINSURANCE - Entering pincode
+2024-01-18 19:06:05,206 [main] INFO COVERFOXINSURANCE - Entering mobile number
+2024-01-18 19:06:06,410 [main] INFO COVERFOXINSURANCE - click on ncontinue button
+2024-01-18 19:06:12,506 [main] ERROR COVERFOXINSURANCE - Fetching No of Details from Text
+2024-01-18 19:06:12,575 [main] WARN COVERFOXINSURANCE - Fetching No of Details from Banner
+2024-01-18 19:06:12,585 [main] FATAL COVERFOXINSURANCE - Tc is Passed
